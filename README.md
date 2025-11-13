@@ -149,6 +149,6 @@ URL: https://chat.deepseek.com
 
 
 LINKS 
-YouTube:
+YouTube: https://youtu.be/luyqBCjwlJs
  
 ****
